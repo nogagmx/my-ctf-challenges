@@ -7,10 +7,9 @@ By [**@nogagmx**](https://twitter.com/nogagmx)
 
 ### Instalación del reto:
 ~~~
-
-	1. Crear la imagen desde el Dockerfile
-		sudo docker build -t noxss .
-	2. Correr el entorno en el puerto 5000
-		sudo docker run -d -p 5000:5000 NoXSS
-	3. El reto estará disponible en en <http://localhost:5000>
+1. Crear la imagen desde el Dockerfile
+	sudo docker build -t noxss .
+2. Correr el entorno en el puerto 5000
+	sudo docker run -d -p 5000:5000 NoXSS
+3. El reto estará disponible en en <http://localhost:5000>
 ~~~
