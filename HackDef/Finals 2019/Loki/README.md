@@ -12,7 +12,7 @@ encuentra el password (que sera la flag) del usuario: jperez. Formato de la flag
 1. Inicializar los contendores
    docker-compose up -d
 
-**Happy Hacking! :)**
+Happy Hacking! :)
 ~~~
 
 ### Writeup:
@@ -21,6 +21,6 @@ encuentra el password (que sera la flag) del usuario: jperez. Formato de la flag
 ### NOTA
 
 * Si existe un problema de conexión con la base de datos, verificar la IP asignada por docker con el siguiente comando
-  `docker inspect gophy_db_1 | grep IPAddress`
+  **`docker inspect gophy_db_1 | grep IPAddress`**
 
-* Escribirla en el archivo `config.php` en la variable `DB_SERVER` , refrescar la pestaña del browser y listo!!
+* Escribirla en el archivo **`config.php`** en la variable **`DB_SERVER`** , refrescar la pestaña del browser y listo!!
