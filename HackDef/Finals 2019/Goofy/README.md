@@ -24,4 +24,4 @@ Happy Hacking! :)
 * Si existe un problema de conexión con la base de datos, verificar la IP asignada por docker con el siguiente comando
   **`docker inspect goofy_db_1 | grep IPAddress`**
 
-Escribirla en el archivo **`config.php`** en la variable **`DB_SERVER`**, refrescar la pestaña del browser y listo!!
+* Escribirla en el archivo **`config.php`** en la variable **`DB_SERVER`**, refrescar la pestaña del browser y listo!!
