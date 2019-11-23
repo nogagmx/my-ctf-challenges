@@ -1,5 +1,5 @@
 # NoXSS - HackDef Quals 2019 (400 pts)
-## By [**@nogagmx**](https://twitter.com/nogagmx)
+By [**@nogagmx**](https://twitter.com/nogagmx)
 
 > **Descripción:** *¿Podrás encontrar la vulnerabilidad de este sitio?. Aquí está el archivo del desarrollador* 
 
