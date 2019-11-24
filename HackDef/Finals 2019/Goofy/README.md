@@ -1,11 +1,7 @@
 # Goofy - HackDef Finals 2019 (200 pts)
 By [**@nogagmx**](https://twitter.com/nogagmx)
 
-> **Descripción:** *Con las credenciales robadas del tarjetahabiente jperez y la capacidad de 
-generar tokens validos, accesa la cuenta de dicho usuario en el portal 
-bancario y trata de encontrar una vulnerabilidad Web que te permita leer  
-informacion en otro puerto dentro del mismo servidor, esto te dara la flag y 
-la ruta para descargar un archivo muy sensible!* 
+> **Descripción:** *Con las credenciales robadas del tarjetahabiente jperez y la capacidad de generar tokens validos, accesa la cuenta de dicho usuario en el portal bancario y trata de encontrar una vulnerabilidad Web que te permita leerinformacion en otro puerto dentro del mismo servidor, esto te dara la flag y la ruta para descargar un archivo muy sensible!* 
 
 > **http://localhost:8002/login.php**
 
