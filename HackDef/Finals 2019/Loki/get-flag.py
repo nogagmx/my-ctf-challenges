@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Autor:@nogagmx 
 import requests
 import urllib
 
